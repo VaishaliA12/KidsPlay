@@ -1,5 +1,5 @@
 # KidsPlay
-KidsPlay is like Netflix but for Kids! Broswe for your favourite cartoon programmes, movies and much more. 
+A comprehensive platform offering curated cartoon show and animated movie trailers, prioritizing entertainment for children 
 
 ## Tech Stack
 
