@@ -3,7 +3,7 @@ KidsPlay is like Netflix but for Kids! Broswe for your favourite cartoon program
 
 ## Tech Stack
 
-**Client:** React, Redux ToolKit
+**Client:** React.js, Redux ToolKit
 
 **Server:** Node.js, Express.js
 
@@ -11,7 +11,7 @@ KidsPlay is like Netflix but for Kids! Broswe for your favourite cartoon program
 
 ## Installation
 
-Install Kidsplay by cloning via Web URL
+Install KidsPlay by cloning via Web URL
 
 ```bash
   https://github.com/Ishzzz/KidsPlay.git
